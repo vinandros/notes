@@ -13,7 +13,6 @@
 - Usar While -> recorrer.
 - ArrayVariable.forEach() -> solo itera
 - ArrayVariable.map() -> devuelve arreglo
--
 
 ### Propios
 

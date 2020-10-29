@@ -9,9 +9,9 @@
 
 ## Métodos
 
-typeof var -> devulve el tipo de la variable
-alert("string")
-prompt("string")
-parseInt("number")
-console.log()
-console.table()
+- typeof var -> devulve el tipo de la variable
+- alert("string")
+- prompt("string")
+- parseInt("number")
+- console.log()
+- console.table()

@@ -1,4 +1,4 @@
-# variables
+# Variables
 
 Son procesadas antes de que cualquier otro código sea ejecutado.
 
