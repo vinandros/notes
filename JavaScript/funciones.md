@@ -6,6 +6,7 @@
 ## Function Declaration
 
 - Se usa la palabra reservada "function".
+- Buscan en scope local caundo se usan en objectos y prototypes.
 - Se puede usar antes de ser declarada, esto por la etapa de creación de Javascript ó hoisting.
 
 ## Function expression
@@ -26,4 +27,5 @@
 
 - Más cortas.
 - No usan la palabra "function" en vez de ella utilizan "(parameters) =>".
-- return implícito en fucniones de una linea.
+- Return implícito en fucniones de una linea.
+- Buscan en ventana global ó scope global cuando se utilizan con objetos y prototypes.
