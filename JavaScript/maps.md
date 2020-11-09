@@ -8,7 +8,7 @@
     const object = {
         propetyuno:"Jonh Dow"
     }
-	const var = new Map();
+	const var = new Map();}
     var.set("nombre","Kevin") //error
     var.set("tipo","Premium") // ok
     var.set("saldo",5000) // ok
@@ -24,3 +24,7 @@
 ```
 
 # WeakMaps
+
+- No son iterables.
+- No puedes conocer se length. con .size
+- Solo aceptan objetos.

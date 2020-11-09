@@ -29,3 +29,15 @@
 - No usan la palabra "function" en vez de ella utilizan "(parameters) =>".
 - Return implícito en fucniones de una linea.
 - Buscan en ventana global ó scope global cuando se utilizan con objetos y prototypes.
+
+## Funciones IIFE
+
+- Se ejecutan inmediatamente.
+- Encapsulan código.
+
+```javascript
+    ((function()[
+        console.log("IIFE");
+        const nombre = "kevin"; // solo puede ser accedida dentro de esta función, mantiene el scope cerrado.
+    ]))()
+```
