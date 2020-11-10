@@ -28,13 +28,16 @@ const promiseExample = new Promise((resolve, reject) => {
 
 - Obtener resultado de la promesa:
 
-````javascript
-    promiseExample.then(resultado => { // para cuando la promesa es exitosa
-        console.log(resultado)
-    }).catch(error =>{  // para cuando la promesa falla
-        console.log(error)
-    })
-    ```
-````
+```javascript
+promiseExample
+  .then((resultado) => {
+    // para cuando la promesa es exitosa
+    console.log(resultado);
+  })
+  .catch((error) => {
+    // para cuando la promesa falla
+    console.log(error);
+  });
+```
 
 - Las funciones "then" y "catch" del promise reciben callbacks.
