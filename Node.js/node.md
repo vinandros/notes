@@ -9,3 +9,7 @@
 - Exelente para aplicaciones en tiempo real.
 - Puedes ser fullstack developer con javascript.
 - Usas NPM como administrador de paquetes para apliar funcionalidades.
+
+### Tips and tricks
+
+- Agrega -> "type": "module" en el package.json para userar import and export de JS moderno.

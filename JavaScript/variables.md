@@ -14,7 +14,7 @@ Son procesadas antes de que cualquier otro código sea ejecutado.
 ## let
 
 - reasignables.
-- scope local (block scope).
+- scope local (local scope).
 
 ## const
 

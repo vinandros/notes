@@ -9,3 +9,8 @@ It is the world's largest Software Registry and it's also a software package man
 ### CDN
 
 - CDNjs -> https://cdnjs.com/
+
+## Date Formating
+
+- date-fns
+- moment.js

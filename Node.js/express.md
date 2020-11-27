@@ -27,3 +27,14 @@ It's is a node.js web application framework, most the time used to create REST a
 - También EJS, HBS and REACT.
 - Se instalan como dependencias de npm
 - Se configuran con "app.set("view engine", "pug");"
+
+### packages
+
+- dotenv
+- nodemon
+- express
+- express-validator
+- pug -> engine rendering
+- mysql2 -> mysql
+- sequelize-> ORM for DB relacionales
+- mongoose-> for mongoDB
